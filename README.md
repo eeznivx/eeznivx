@@ -1,5 +1,5 @@
-<a href="https://discord.com/users/1228485320341852264" target="_blank">
-	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/1228485320341852264?bg=1f1f1f&borderRadius=5px">
+<a href="https://discord.com/users/216830165823520768" target="_blank">
+	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/216830165823520768?bg=1f1f1f&borderRadius=5px">
 </a>
 
 <div align="left">
