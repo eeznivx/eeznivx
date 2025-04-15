@@ -3,7 +3,7 @@
 </a>
 
 <div align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=uh+hi+there!+i'm+Vinzee" alt="uh hi there! Im Vinzee" width="435" height="50">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=uh+hi+there!+i'm+Vinzee" alt="uh hi there! Im Vinzee" width="300" height="30"> <br>
 welcome to my <b>stupid</b> readme <br>
 i barely <b>code</b>. its <b>rare</b>! <br>
 i also help think of <b>ideas</b> alot <br>
