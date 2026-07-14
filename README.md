@@ -64,10 +64,20 @@ i also help think of <b>ideas</b> alot <br>
 ### 📫 How to reach me:
 - **ramadianjasdya23@gmail.com**
 <br>
-
-## What i'am listening to
-<a href="https://spotify-vinzee.vercel.app/api/now-playing?open=yes">
-  <img src="https://spotify-vinzee.vercel.app/api/now-playing" width="356" height="104" alt="Now Playing"/>
-</a>
+---
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://open.spotify.com/user/vinzgriff">
+        <img src="https://spotify-vinzee.vercel.app/api" alt="Spotify now playing">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/user/vinzgriff">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=vinzgriff" alt="Spotify recently played">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ☕ Wanna chat? 👉 @ me on [![Twitter](https://img.shields.io/twitter/follow/eeznivx?label=Follow&style=social)](https://twitter.com/eeznivx)
